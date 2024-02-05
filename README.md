@@ -2,6 +2,9 @@
 
 AirBnB clone project!
 
+![AIR](https://github.com/Matidza/AirBnB_clone/assets/125007667/4a35ea56-46f5-4558-9f5f-4a490a583ebb)
+
+
 ## Overview
 
 This project will showcase the building/cloning of AirBnB website.
@@ -30,7 +33,8 @@ This abstraction will also allow you to change the type of storage easily withou
 
 The console will be a tool to validate this storage engine
 
-/ PNG /
+![console](https://github.com/Matidza/AirBnB_clone/assets/125007667/98b77de0-98f7-4be1-b9ce-3fe130988169)
+
 
 ## Web Static
 
@@ -40,7 +44,8 @@ Web static
     create the HTML of your application
     create template of each object
 
-/ PNG /
+![Web Static](https://github.com/Matidza/AirBnB_clone/assets/125007667/85246011-ce60-4e31-814a-9e1d8dc3389d)
+
 
 ## MySQL storage
 
@@ -49,7 +54,8 @@ MySQL storage
     replace the file storage by a Database storage
     map your models to a table in database by using an O.R.M.
 
-/ PNG /
+![MySQL](https://github.com/Matidza/AirBnB_clone/assets/125007667/337073bd-60e8-4285-aa51-398d02621285)
+
 
 ## Web framework-templating
 
@@ -58,16 +64,18 @@ Web framework - templating
     create your first web server in Python
     make your static HTML file dynamic by using objects stored in a file or database
 
-/ PNG /
+![Wb Framework](https://github.com/Matidza/AirBnB_clone/assets/125007667/9482becc-a61f-45a7-88b4-8e2056eb3cd2)
 
-## RESTfu API
+
+## RESTful API
 
 RESTful API
 
     expose all your objects stored via a JSON web interface
     manipulate your objects via a RESTful API
 
-/ PNG /
+![RESTful API](https://github.com/Matidza/AirBnB_clone/assets/125007667/94bb8893-3ead-416f-b801-67add62ee060)
+
 
 ## Web dynamic
 
@@ -76,7 +84,8 @@ Web dynamic
     learn JQuery
     load objects from the client side by using your own RESTful API
 
-/ PNG /
+![Web Dynamic](https://github.com/Matidza/AirBnB_clone/assets/125007667/1d4b5661-de36-44da-970b-8350c38beef6)
+
 
 ## Files and Directories
 
@@ -252,3 +261,5 @@ print(date_now.strftime("%A %d %B %Y at %H:%M:%S")) # Thursday 08 June 2017 at 2
 
 
 ## Data diagram
+![DATA](https://github.com/Matidza/AirBnB_clone/assets/125007667/bde8c7b7-a211-4fe7-ac9e-819143334855)
+
