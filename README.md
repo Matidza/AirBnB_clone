@@ -1,99 +1,5 @@
-# AirBnB_clone
+
 ## 0x00. AirBnB clone - The console
-
-So this project is the first step towards building a first full web application (which is an AirBnB clone). This first step consists of a custom command-line interface for data management, and the base classes for the storage of this data.
-Step 1: Write a command interpreter (The Console)
-Functionalities of this command interpreter:
-
-    Create a new object (ex: a new User or a new Place)
-    Retrieve an object from a file, a database etc...
-    Do operations on objects (count, compute stats, etc...)
-    Update attributes of an object
-    Destroy an object
-
-
-Skip to content
-
-    rhomeinel
-    /
-    AirBnB_clone
-
-Code
-Pull requests
-Actions
-Projects
-Security
-
-    Insights
-
-Owner avatar
-AirBnB_clone
-Public
-forked from bedzon94/AirBnB_clone
-
-rhomeinel/AirBnB_clone
-t
-Add file
-This branch is 11 commits ahead of, 5 commits behind bedzon94/AirBnB_clone:main.
-Folders and files
-Name	Last commit message
-	Last commit date
-Latest commit
-rhomeinel
-rhomeinel
-Add more info to 'My home'
-39fe189
- · 
-History
-models
-	
-models/ modified
-	
-tests
-	
-Update test_console.py
-	
-web_static
-	
-Add more info to 'My home'
-	
-.gitignore
-	
-Modify .gitignore file
-	
-AUTHORS
-	
-Add an AUTHORS file
-	
-README.md
-	
-Update README.md
-	
-console.py
-	
-Update console.py
-	
-file.json
-	
-Modify json file
-	
-test_base_model.py
-	
-base_model fix and test run
-	
-test_base_model_dict.py
-	
-Create BaseModel from dictionary
-	
-test_save_reload_base_model.py
-	
-test files updated
-	
-Repository files navigation
-
-    README
-
-0x00. AirBnB clone - The console
 
 So this project is the first step towards building a first full web application (which is an AirBnB clone). This first step consists of a custom command-line interface for data management, and the base classes for the storage of this data.
 Step 1: Write a command interpreter (The Console)
@@ -152,6 +58,9 @@ Documented commands (type help <topic>):
 EOF  help  quit
 (hbnb) 
 $
+
+All tests should also pass in non-interactive mode: $ echo "python3 -m unittest discover tests" | bash
+
 
 
 ![AIR](https://github.com/Matidza/AirBnB_clone/assets/125007667/4a35ea56-46f5-4558-9f5f-4a490a583ebb)
